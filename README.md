@@ -1,4 +1,4 @@
-<a href="https://portfolio-lucas-picagevicz.netlify.app">
+<a href="https://lucaspicagevicz.com.br">
   <img src="https://raw.githubusercontent.com/lusquera123/lusquera123/main/assets/header.svg" alt="Lucas Picagevicz — Sistemas, dados e automação" width="100%">
 </a>
 
@@ -6,7 +6,7 @@
 
 Sou **Lucas Picagevicz**, analista de sistemas e desenvolvedor de software. Trabalho com sistemas hospitalares, produtos web, dados e automações — do entendimento da rotina à aplicação em uso.
 
-**[Explorar meu portfólio ↗](https://portfolio-lucas-picagevicz.netlify.app)** &nbsp;·&nbsp; **[Conversar por e-mail](mailto:lucaspicagevicz7@gmail.com)**
+**[Explorar meu portfólio ↗](https://lucaspicagevicz.com.br)** &nbsp;·&nbsp; **[Conversar por e-mail](mailto:lucaspicagevicz7@gmail.com)**
 
 ---
 
@@ -20,13 +20,13 @@ Sou **Lucas Picagevicz**, analista de sistemas e desenvolvedor de software. Trab
 
 | Projeto | O que desenvolvi | Conheça |
 | :--- | :--- | :--- |
-| **Sistema hospitalar interno** | Módulos com controle de acesso, auditoria e integrações. | [Visão técnica](https://portfolio-lucas-picagevicz.netlify.app/projects/projeto-secreto/) |
-| **MB Mobile Tech** | Catálogo, consulta de preços e geração de orçamentos. | [Ver projeto](https://portfolio-lucas-picagevicz.netlify.app/projects/mb-mobile-tech/) |
-| **Mecânica Avenida** | Site e gestão de orçamentos, agenda e atendimentos. | [Ver projeto](https://portfolio-lucas-picagevicz.netlify.app/projects/mec-avenida/) |
-| **Instituto Veneza / Skate House** | Aplicação web com painel administrativo e autenticação. | [Ver projeto](https://portfolio-lucas-picagevicz.netlify.app/projects/instituto-veneza-skate-house/) |
-| **WooCommerce + impressão térmica** | Serviço Python para imprimir pedidos com controle de duplicidade. | [Ver automação](https://portfolio-lucas-picagevicz.netlify.app/projects/automacao-woocommerce-termica/) |
+| **Sistema hospitalar interno** | Módulos com controle de acesso, auditoria e integrações. | [Visão técnica](https://lucaspicagevicz.com.br/projects/projeto-secreto/) |
+| **MB Mobile Tech** | Catálogo, consulta de preços e geração de orçamentos. | [Ver projeto](https://lucaspicagevicz.com.br/projects/mb-mobile-tech/) |
+| **Mecânica Avenida** | Site e gestão de orçamentos, agenda e atendimentos. | [Ver projeto](https://lucaspicagevicz.com.br/projects/mec-avenida/) |
+| **Instituto Veneza / Skate House** | Aplicação web com painel administrativo e autenticação. | [Ver projeto](https://lucaspicagevicz.com.br/projects/instituto-veneza-skate-house/) |
+| **WooCommerce + impressão térmica** | Serviço Python para imprimir pedidos com controle de duplicidade. | [Ver automação](https://lucaspicagevicz.com.br/projects/automacao-woocommerce-termica/) |
 
-Também construí os sites da **[Lembranças da Luna](https://portfolio-lucas-picagevicz.netlify.app/projects/lembrancas-da-luna/)** e da **[Florê Doces Finos](https://portfolio-lucas-picagevicz.netlify.app/projects/flore-doces-finos/)**.
+Também construí os sites da **[Lembranças da Luna](https://lucaspicagevicz.com.br/projects/lembrancas-da-luna/)** e da **[Florê Doces Finos](https://lucaspicagevicz.com.br/projects/flore-doces-finos/)**.
 
 <sub>Os projetos profissionais têm código privado. No portfólio, apresento o contexto, as decisões técnicas e as demonstrações que podem ser compartilhadas.</sub>
 
@@ -46,4 +46,4 @@ Entendo o processo com quem usa, organizo as regras de negócio, construo a solu
 ---
 
 **Tem um sistema, integração ou processo para melhorar?**  
-[Veja os projetos no portfólio](https://portfolio-lucas-picagevicz.netlify.app) ou [me escreva](mailto:lucaspicagevicz7@gmail.com).
+[Veja os projetos no portfólio](https://lucaspicagevicz.com.br) ou [me escreva](mailto:lucaspicagevicz7@gmail.com).
