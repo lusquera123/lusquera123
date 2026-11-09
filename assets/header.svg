@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Lucas Picagevicz</title>
+  <desc id="desc">Analista de Sistemas e Desenvolvimento de Software. Sistemas, dados e automação.</desc>
+  <rect width="1200" height="310" rx="16" fill="#111a22"/>
+  <rect x="1" y="1" width="1198" height="308" rx="15" fill="none" stroke="#2a3945"/>
+  <path d="M922 0V310M1008 0V310M1094 0V310M1180 0V310M888 52H1200M888 138H1200M888 224H1200" stroke="#20303b" stroke-width="1"/>
+  <path d="M995 67L953 109L995 151M1108 159L1150 201L1108 243M1077 91L1030 220" fill="none" stroke="#7ad9c4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".65"/>
+  <rect x="48" y="40" width="38" height="38" rx="10" fill="#7ad9c4"/>
+  <text x="67" y="65" fill="#111a22" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="16" text-anchor="middle">LP</text>
+  <text x="102" y="65" fill="#a5b8c5" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.5">SOFTWARE PARA PROCESSOS REAIS</text>
+  <text x="48" y="146" fill="#f2f6f8" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="700" letter-spacing="-1.5">Lucas Picagevicz</text>
+  <text x="50" y="185" fill="#b7c6d0" font-family="Arial, Helvetica, sans-serif" font-size="21">Analista de Sistemas · Desenvolvimento de Software</text>
+  <path d="M48 220H843" stroke="#2a3945"/>
+  <circle cx="55" cy="258" r="4" fill="#7ad9c4"/>
+  <text x="72" y="264" fill="#d6e3e9" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">SISTEMAS</text>
+  <circle cx="244" cy="258" r="4" fill="#7ad9c4"/>
+  <text x="261" y="264" fill="#d6e3e9" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">DADOS</text>
+  <circle cx="400" cy="258" r="4" fill="#7ad9c4"/>
+  <text x="417" y="264" fill="#d6e3e9" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">INTEGRAÇÕES</text>
+  <circle cx="619" cy="258" r="4" fill="#7ad9c4"/>
+  <text x="636" y="264" fill="#d6e3e9" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">AUTOMAÇÃO</text>
+</svg>
